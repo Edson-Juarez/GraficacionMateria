@@ -1,0 +1,7 @@
+1.- Moverse desde una consola hasta donde se descargaron los archivos
+e instalarlos usando pip install
+
+2.- La versión de python para estos archivos es la 3.9.5
+
+3.- En caso de ser necesario pegar las .dll en la carpeta Syste32, SysWOW64 y en 
+la raiz del archivo python a ejecutar.
